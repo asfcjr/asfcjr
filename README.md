@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Antonio+Junior+%F0%9F%91%8B;Site+Reliability+Engineer+%F0%9F%9A%80;Cloud+Infrastructure+Specialist+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Antonio+Junior+%F0%9F%91%8B;Site+Reliability+Engineer+%F0%9F%9A%80;Cloud+Infrastructure+Specialist+%F0%9F%92%BB" />
 </div>
 
 ---
@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+reliable%2C+scalable%2C+and+secure+cloud+infrastructure" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Building+reliable%2C+scalable%2C+and+secure+cloud+infrastructure" />
 
 </div>
 
@@ -37,53 +37,34 @@
 
 <div align="center">
   
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=antoniojunior&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF"/>
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=antoniojunior&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=antoniojunior&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=antoniojunior&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF"/>
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antoniojunior&theme=dark&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antoniojunior&theme=dark&hide_border=true&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
   
 </div>
 
 ---
 
-## 🛠️ Technology Stack
-
-<div align="center">
-  
-  ### 🏗️ Infrastructure & Orchestration
-  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-  
-  ### 🔄 CI/CD & GitOps
-  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-  ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-  ![Crossplane](https://img.shields.io/badge/Crossplane-0B5AA7?style=for-the-badge&logo=crossplane&logoColor=white)
-  
-  ### 📊 Monitoring & Observability
-  ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-  
-  ### 💻 Programming & Scripting
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  
-  ### 🔧 Message Queuing & Storage
-  ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-  
-  ### 🖥️ Operating Systems & Tools
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  
-</div>
+### 🧰 Toolkit:
+  ![Terraform](https://img.shields.io/badge/-Terraform-010101?style=for-the-badge&logo=terraform&Color=black)&nbsp;
+  ![Kubernetes](https://img.shields.io/badge/-kubernetes-010101?style=for-the-badge&logo=kubernetes&Color=black)&nbsp;
+  ![Github actions](https://img.shields.io/badge/-github%20actions-010101?style=for-the-badge&logo=githubactions&Color=black)&nbsp;
+  ![Ansible](https://img.shields.io/badge/-ansible-010101?style=for-the-badge&logo=ansible&Color=black)&nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-010101?style=for-the-badge&logo=docker&Color=black)&nbsp;
+  ![Python](https://img.shields.io/badge/-Python-010101?style=for-the-badge&logo=python&Color=black)&nbsp;
+  ![Bash](https://img.shields.io/badge/-Bash-010101?style=for-the-badge&logo=gnu-bash&Color=black)&nbsp;
+  ![Linux](https://img.shields.io/badge/-linux-010101?style=for-the-badge&logo=linux&Color=black)&nbsp;
+  ![Git](https://img.shields.io/badge/-git-010101?style=for-the-badge&logo=git&Color=black)&nbsp;
+  ![Github](https://img.shields.io/badge/-github-010101?style=for-the-badge&logo=github&Color=black)&nbsp;
+  ![Datadog](https://img.shields.io/badge/-Datadog-010101?style=for-the-badge&logo=datadog&Color=black)&nbsp;
+  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-010101?style=for-the-badge&logo=rabbitmq&Color=black)&nbsp;
+  ![ArgoCD](https://img.shields.io/badge/-ArgoCD-010101?style=for-the-badge&logo=argo&Color=black)&nbsp;
+  ![Crossplane](https://img.shields.io/badge/-Crossplane-010101?style=for-the-badge&logo=crossplane&Color=black)&nbsp;
 
 ---
 
@@ -96,16 +77,6 @@
   🎯 **Goals:** Contributing to open-source infrastructure projects  
   💡 **Interests:** AI-powered infrastructure optimization and predictive scaling  
 
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antoniojunior&theme=dark&hide_border=true&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF" />
-  
 </div>
 
 ---
@@ -135,7 +106,7 @@
   ### 💭 Quote
   > *"Reliability is not just about preventing failures, but about building systems that gracefully handle them."*
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+reliable+systems+together!+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+reliable+systems+together!+%F0%9F%9A%80" />
   
 </div>
 
