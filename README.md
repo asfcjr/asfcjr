@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Antonio+Junior+%F0%9F%91%8B;Site+Reliability+Engineer+%F0%9F%9A%80;Cloud+Infrastructure+Specialist+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile+%F0%9F%91%8B;Site+Reliability+Engineer+%F0%9F%9A%80;Cloud+Infrastructure+Specialist+%F0%9F%92%BB" />
 </div>
 
 ---
@@ -89,14 +89,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
-  <a href="mailto:antonio.junior@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  
-  <a href="https://twitter.com/antoniojunior" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  
 </div>
 
 ---
@@ -112,8 +104,4 @@
 
 ---
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/antoniojunior/antoniojunior/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+![Snake animation](https://github.com/antoniojunior/antoniojunior/blob/output/github-contribution-grid-snake.svg)
